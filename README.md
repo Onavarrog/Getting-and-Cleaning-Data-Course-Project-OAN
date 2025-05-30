@@ -1,3 +1,19 @@
+# Human Activity Recognition Analysis
+
+This repository contains:
+- run_analysis.R: Script for processing the Samsung Galaxy S smartphone data
+- CodeBook.md: Description of variables and transformations
+- tidy_data.txt: Final processed dataset
+
+## How to use
+1. Download the script
+2. Run run_analysis.R
+3. The script will:
+   - Download and unzip the dataset
+   - Process the data according to project requirements
+   - Generate tidy_data.txt with the results
+
+Original README.md
 ==================================================================
 Human Activity Recognition Using Smartphones Dataset
 Version 1.0
